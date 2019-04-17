@@ -1,0 +1,365 @@
+.site-bold {
+    color: #909090;
+    font-weight: 600;
+}
+
+
+.navbar {
+    font-family: 'Righteous';
+    line-height: 70px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: #0d3349;
+
+}
+
+.navbar-brand>span {
+    color: white;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+.nav-link:hover {
+    color: darkgrey !important;
+}
+
+.nav-link:active {
+    color: darkgrey !important;
+}
+
+.nav-separator {
+    color: white;
+    font-size: 18px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.nav-separator>h2 {
+    margin-top: 25px;
+    font-family: 'Poiret One';
+}
+
+.home-menu {
+    padding: 0px;
+}
+
+#navbarNav {
+    padding-left: 70px;
+    padding-right: 100px;
+}
+
+.social-icons {
+    margin-right: 20px;
+}
+
+.twitter-icon{
+    margin-right: 30px;
+}
+
+.insta-icon {
+    margin-right: 30px;
+}
+
+.insta-icon:hover {
+    color: #000;
+}
+
+.contents>hr {
+    margin: 0px !important;
+}
+
+.main-contents {
+    height: 80vh;
+    background-color: #f9f9f9;
+}
+
+.banner {
+    min-height: 90vh;
+    height: auto;
+}
+
+.banner-left {
+    background-color: inherit;
+}
+
+.banner-right {
+
+}
+
+.illustration {
+    background: url("../images/illustr.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    height: 50%;
+    margin-top: 20%;
+}
+
+.slogan {
+    height: 90vh;
+    margin-top: 30%;
+}
+
+.slogan>h1 {
+    font-size: 92px;
+    /*font-family: 'Righteous';*/
+    font-family: 'Sacramento';
+    letter-spacing: 5px;
+    color: #0d3349;
+}
+
+.slogan>h4 {
+    color: #0d3349;
+    font-size: 40px;
+    font-weight: 500;
+    font-family: 'Poiret One';
+    line-height: 60px;
+}
+
+.slogan>h6 {
+    font-family: 'Quicksand';
+    font-weight: 600;
+    color: #0d3349;
+}
+
+.slogan>button {
+    margin-top: 30px;
+    background-color: white;
+    text-align: center;
+    color: #0d3349;
+    font-family: 'Quicksand';
+    border-color: #0d3349;
+}
+
+.slogan>button:hover {
+    background-color: white;
+    border-color: lightseagreen;
+    color: lightseagreen;
+}
+
+.our-technology {
+    height: auto;
+    min-height: 50vh;
+    background-color: white;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.technology-title {
+    margin-top: 30px;
+    font-size: 92em !important;
+    font-family: 'Poiret One';
+    font-weight: 900;
+    color: #0d3349;
+}
+
+.technologies-list {
+    margin-top: 50px;
+}
+
+.technologies-list>div {
+    text-align: center;
+}
+
+.technologies-list>div>p {
+    margin-top: 20px;
+}
+
+.portfolio {
+    background-color: white;
+}
+
+.gradient {
+    background-image:
+            linear-gradient(
+                    to right,
+                    #262828,
+                    #262828
+            );
+}
+
+.portfolio-phone {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.phone-illustration {
+    background: url("../images/phoneframe.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.phone-message {
+    margin-top: 2em;
+}
+
+.phone-message>h1 {
+    font-family: 'Quicksand';
+    color: #0d3349;
+}
+
+.phone-message>button {
+    margin-top: 20px;
+    color: #0d3349;
+    outline-color: #0d3349 !important;
+    border-color: #0d3349;
+    font-family: 'Quicksand';
+}
+
+.phone-message>button:hover {
+    color: white;
+    background-color: #0d3349;
+    border-color: #0d3349;
+}
+
+.phone-message>p {
+    margin-top: 2em;
+    width: 30em;
+    font-size: 18px;
+    color: #7f7f7f;
+    font-weight: 400;
+    font-family: 'Quicksand';
+}
+
+.portfolio-site {
+    padding-bottom: 50px;
+    background-color: #f9f9f9;
+}
+
+.site {
+    margin-top: 3em;
+}
+
+.site>h1 {
+    font-family: 'Quicksand';
+    color: #0d3349;
+}
+
+.site>button {
+    margin-top: 20px;
+    color: #0d3349;
+    outline-color: #0d3349 !important;
+    border-color: #0d3349;
+    font-family: 'Quicksand';
+}
+
+.site>button:hover {
+    color: white;
+    background-color: #0d3349;
+    border-color: #0d3349;
+}
+
+.site>p {
+    margin-top: 2em;
+    width: 30em;
+    font-size: 18px;
+    color: #7f7f7f;
+    font-weight: 400;
+    font-family: 'Quicksand';
+}
+
+.site-illustration {
+    background: url("../images/siteillustration.png");
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.contact-us {
+    height: auto;
+    margin-bottom: 50px;
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.contact-us>h1 {
+    margin-top: 50px;
+    font-family: 'Poiret One';
+    color: #0d3349;
+}
+
+.contact-us>div {
+    margin-top: 50px;
+}
+
+.join-us {
+    padding-right: 50px;
+    font-size: 24px;
+    font-family: Circular Std,sans-serif;
+}
+
+.join-us>h1 {
+    font-family: 'Quicksand';
+}
+
+.join-us>p {
+    font-size: 18px;
+    color: #7f7f7f;
+    font-weight: 400;
+    font-family: 'Quicksand';
+
+}
+
+.join-us>button {
+    margin-top: 20px;
+    color: #0d3349;
+    outline-color: #0d3349 !important;
+    border-color: #0d3349;
+    font-family: 'Quicksand';
+}
+
+.join-us>button:hover {
+    color: white;
+    background-color: #0d3349;
+    border-color: #0d3349;
+}
+
+.bordered {
+    width: 1px;
+    background-color: #dbdbdb;
+}
+
+.hire-us {
+    font-family: 'Quicksand';
+    font-size: 24px;
+    margin-right: 50px;
+    margin-left: 50px;
+}
+
+.hire-us>p {
+    font-size: 18px;
+    color: #7f7f7f;
+    font-weight: 400;
+    margin-top: 20px;
+}
+
+.hire-us>div {
+    margin-top: 30px;
+}
+
+.hire-us>div>input {
+    padding: 0.5rem 1rem;
+    font-size: 1.5rem;
+    line-height: 1.5;
+    border-radius: 0.3rem;
+}
+
+.hire-us:before {
+    color: #7f7f7f;
+    border-left: solid #7f7f7f;
+}
+
+.wappi-footer {
+    height: 85px;
+    background-color: #0d3349;
+}
