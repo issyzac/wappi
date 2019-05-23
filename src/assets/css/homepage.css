@@ -84,6 +84,12 @@
     background-color: inherit;
 }
 
+.logo-image {
+    height: 120px;
+    width: 120px;
+    overflow: hidden
+}
+
 .banner-right {
 
 }
@@ -166,6 +172,11 @@
 
 .technologies-list>div>p {
     margin-top: 20px;
+}
+
+.technologies-logo {
+    height: 100px;
+    width: 100px;
 }
 
 .portfolio {
@@ -286,6 +297,7 @@
     margin-top: 50px;
     font-family: 'Poiret One';
     color: #0d3349;
+
 }
 
 .contact-us>div {
@@ -294,6 +306,7 @@
 
 .join-us {
     padding-right: 50px;
+    margin-left: 50px;
     font-size: 24px;
     font-family: Circular Std,sans-serif;
 }
@@ -333,7 +346,6 @@
     font-family: 'Quicksand';
     font-size: 24px;
     margin-right: 50px;
-    margin-left: 50px;
 }
 
 .hire-us>p {

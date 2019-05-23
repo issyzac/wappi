@@ -22,12 +22,11 @@ class Portfolio extends Component {
                         <div className="row">
                             <div className="col site">
                                 <h1 className="font-weight-bold display-4 float-right">Strong backend matters!</h1>
-                                <p> With machine learning powered analytics and eye catching design we believe you need
-                                    to have <b className="site-bold">the best online presence</b> and experience for
-                                    your users while making the most out of
-                                    every visit and click on your site so as to maximize your <b className="site-bold">business</b>
-                                    potential on <b className="site-bold">every
-                                        single visit</b>.
+                                <p> With machine learning powered analytics and a design meant for ease and simplicity
+                                    we believe you need to have <b className="site-bold">the best online presence</b> and experience for
+                                    your team and users while making the most out of every visit and click so as to 
+                                    maximize your <b className="site-bold">business</b> potential on <b className="site-bold">every
+                                    single visit</b>.
                                 </p>
                                 <button className="btn btn-outline-info btn-lg"> Make me One!</button>
                             </div>
