@@ -13,8 +13,8 @@ class HomeMain extends Component {
                             <div className="row align-items-center">
                                 <div className="col-md-auto slogan">
                                     <img className="logo-image" src={logo} alt="Logo"/>
-                                    <h4><b> Worldclass Apps Inc. </b> </h4>
-                                    <h6>Mobile and Data Science Lab.</h6>
+                                    <h4><b> Wappi; Mobile and Data science Labs. </b> </h4>
+                                    <h6>Worldclass Apps Inc.</h6>
                                     <button className="btn btn-outline-info btn-lg"> Reach Out to Us </button>
                                 </div>
                             </div>
