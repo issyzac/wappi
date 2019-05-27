@@ -1,5 +1,6 @@
 import React, {Component} from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import logo from '../assets/images/wappi-nav.png';
 
 class NavMenu extends Component {
 
@@ -7,7 +8,8 @@ class NavMenu extends Component {
         return (
             <nav className="navbar sticky-top navbar-expand-lg navbar-light" id="navbar-wappi">
                 <a class="navbar-brand my-1" href="#">
-                    <FontAwesomeIcon icon={['fab', 'ioxhost']} size="2x" color="#FFFFFF"/>
+                    {/* <FontAwesomeIcon icon={['fab', 'ioxhost']} size="2x" color="#FFFFFF"/> */}
+                    <img className="logo-image-nav" src={logo} alt="Logo"/>
                     <span> wappi. </span>
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
